@@ -67,9 +67,8 @@ The HTTP parsing layer includes a custom byte-level `readLine()` implementation,
 
 4. Run it:
    ```bash
-   java -jar target/URL-Shortener-shaded.jar
+   java -jar target/jerme-url-shortener.jar
    ```
-   *(adjust the jar name to match your actual build output)*
 
 ## Roadmap
 
